@@ -1,4 +1,5 @@
 # MEANWH[x]
+Development note: this repository is maintained collaboratively through branches and pull requests.
 
 A lightweight, collaborative static website for MeanwhX: an independent science × art studio and growing community.
 
