@@ -1,0 +1,68 @@
+{
+  "index": {
+    "path": "index.html",
+    "title": "Home",
+    "description": "MeanwhX is an independent science × art studio and community project where writing, objects, coffee, play, and scientific curiosity meet.",
+    "source": "home.html",
+    "nav": "Home"
+  },
+  "studio": {
+    "path": "studio/index.html",
+    "title": "Studio",
+    "description": "The MeanwhX Studio explores objects, adornment, mathematical and scientific forms, and carefully labeled embodied experiments.",
+    "source": "studio.html",
+    "nav": "Studio"
+  },
+  "notes": {
+    "path": "notes/index.html",
+    "title": "Notes",
+    "description": "Poetry, essays, science fiction, studio notes, and field notes from the café-library next door.",
+    "source": "notes-index.html",
+    "nav": "Notes"
+  },
+  "community": {
+    "path": "community/index.html",
+    "title": "Community",
+    "description": "A growing open community for after-seminar conversations, reading tables, making sessions, and gentle collaboration.",
+    "source": "community.html",
+    "nav": "Community"
+  },
+  "about": {
+    "path": "about/index.html",
+    "title": "About",
+    "description": "About MeanwhX, an early independent science × art studio and growing community beside serious technical work.",
+    "source": "about.html",
+    "nav": "About"
+  },
+  "support": {
+    "path": "support/index.html",
+    "title": "Support & Collaborate",
+    "description": "Ways to support or collaborate with MeanwhX through writing, making, operations, grants, fabrication, events, and careful partnerships.",
+    "source": "support.html"
+  },
+  "rights": {
+    "path": "rights/index.html",
+    "title": "Rights & Use",
+    "description": "Plain-language working guidance on attribution, reuse, product designs, contributor work, and commercial permission.",
+    "source": "rights.html"
+  },
+  "contact": {
+    "path": "contact/index.html",
+    "title": "Contact",
+    "description": "Contact MeanwhX about writing, collaboration, making, funding, rights questions, or community ideas.",
+    "source": "contact.html"
+  },
+  "404": {
+    "path": "404.html",
+    "title": "Page not found",
+    "description": "The requested page could not be found.",
+    "source": "404.html"
+  },
+  "pi-bear": {
+    "path": "pi-bear/index.html",
+    "title": "π + Bear",
+    "description": "π + Bear is the warmer material room of MeanwhX: drinks, small rituals, bears, mugs, objects, and mathematical house jokes.",
+    "source": "pi-bear.html",
+    "nav": "π + Bear"
+  }
+}

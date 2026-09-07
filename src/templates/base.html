@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{page_title}}</title>
+  <meta name="description" content="{{description}}">
+  <meta name="theme-color" content="#f4f0e7">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="{{page_title}}">
+  <meta property="og:description" content="{{description}}">
+  {{canonical}}
+  <link rel="stylesheet" href="/assets/styles.css">
+  <script src="/assets/site.js" defer></script>
+</head>
+<body data-page="{{page_key}}">
+  <a class="skip-link" href="#main">Skip to content</a>
+  {{header}}
+  <main id="main">
+    {{content}}
+  </main>
+  {{footer}}
+</body>
+</html>
